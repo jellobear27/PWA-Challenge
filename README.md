@@ -71,8 +71,11 @@ Features
 - Workbox
 - Express
 - Babel
-- Deployment
-The application can be deployed to Render using the Render Deployment Guide available on The Full-Stack Blog.
+
+## Deployment
+View deployed application with Heroku at:
+
+``https://pwa-challenge-js-eae69d7576c3.herokuapp.com/``
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any suggested enhancements or bug fixes.
