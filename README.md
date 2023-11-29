@@ -75,7 +75,7 @@ https://github.com/jellobear27/PWA-Challenge
 - Babel
 
 ## ScreenShots
-[![Alt Text](assets/images/Screenshot%202023-11-28%20at%209.08.40%20PM.png)]
+[![Alt Text](assets/images/Screenshot%202023-11-28%20at%209.09.08%20PM.png)]
 [![Alt Text](assets/images/Screenshot%202023-11-29%20at%203.02.45%20PM.png)]
 
 
