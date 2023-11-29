@@ -12,6 +12,7 @@ J.A.T.E (Just Another Text Editor) is a progressive web application that serves 
 - [Getting Started](#Getting-Started)
 - [Usage](#Usage)
 - [Technologies Used](#Technologies-Used)
+- [ScreenShots](#screenshots)
 - [Deployment](#Deployment)
 - [Contributing](#Contributing)
 - [License](#License)
@@ -48,7 +49,8 @@ Features
 
 - bash
 - Copy code
-- git clone ``https://github.com/jellobear27/PWA-Challenge``
+- git clone 
+https://github.com/jellobear27/PWA-Challenge
 - Install dependencies:
 
 - bash
@@ -72,15 +74,20 @@ Features
 - Express
 - Babel
 
+## ScreenShots
+[![Alt Text](assets/images/Screenshot%202023-11-28%20at%209.08.40%20PM.png)]
+[![Alt Text](assets/images/Screenshot%202023-11-29%20at%203.02.45%20PM.png)]
+
+
 ## Deployment
 View deployed application with Heroku at:
 
-``https://pwa-challenge-js-eae69d7576c3.herokuapp.com/``
+https://pwa-challenge-js-eae69d7576c3.herokuapp.com/
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any suggested enhancements or bug fixes.
 
-## License:MIT
+## License:MIT https://opensource.org/license/mit/
 Copyright <2023> <COPYRIGHT Janell Smith>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -91,5 +98,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contact
 For any inquiries or suggestions, feel free to contact me via GitHub: 
-``https://github.com/jellobear27``
+https://github.com/jellobear27
 
